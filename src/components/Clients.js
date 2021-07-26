@@ -50,7 +50,7 @@ const Clients = () => {
         <div class=" client-section py-5">
           <div class="card client-card text-center text-white">
             <div class="container client-container ">
-              <h1 class="py-4">what clients are saying</h1>
+              <h1 class="py-4 text-capitalize">what clients are saying</h1>
               <div class="row">
                 <div class="col-5 py-4 ps-5">
                   <img

@@ -38,13 +38,15 @@
     position: relative;
     .slick-prev, .slick-next {
       position: absolute;
+      color: #f59042 !important;
+     
       top: 50%;
     }
     .slick-prev {
-      left: 5%;
+      left: 10%;
     }
     .slick-next {
-      right: 5%;
+      right: 10%;
     }
   }
   .slider {
@@ -64,5 +66,11 @@
       right: -8% !important;
       z-index: 1;
     }
+  }
+  .slick-prev:before, .slick-next:before {
+    position: relative;
+    color: #eb7b0b !important;
+    bottom: 20px;
+   
   }
   

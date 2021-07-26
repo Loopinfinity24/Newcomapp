@@ -19,13 +19,13 @@ const Products = () => {
       <div class="row">
         <div class="col-6 py-3">
           <div class="card">
-            <img src={horoscope1} class="card-img-top" alt="..." />
+            <img src={horoscope1} class="card-img-top product-img" alt="..." />
          
           </div>
         </div>
         <div class="col-6 py-3">
           <div class="card">
-            <img src={horoscope2} class="card-img-top" alt="..." />
+            <img src={horoscope2} class="card-img-top product-img" alt="..." />
             
           </div>
         </div>
@@ -33,13 +33,13 @@ const Products = () => {
       <div class="row">
         <div class="col-6 py-3">
           <div class="card">
-            <img src={horoscope3} class="card-img-top" alt="..." />
+            <img src={horoscope3} class="card-img-top product-img" alt="..." />
            
           </div>
         </div>
         <div class="col-6 py-3">
           <div class="card">
-            <img src={horoscope4} class="card-img-top" alt="..." />
+            <img src={horoscope4} class="card-img-top product-img" alt="..." />
           
           </div>
         </div>

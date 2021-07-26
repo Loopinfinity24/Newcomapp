@@ -22,7 +22,7 @@ const Experts = () => {
       <>
         <div>
           <div class="container expert-container text-center py-4">
-            <h2> Speak to Our experts </h2>
+            <h2 class="text-capitalize"> Speak to Our experts </h2>
             <div class="row py-4">
               <div class="col-lg-3 col-md-3 col-sm-12">
                 <div class="card text-center expert-card">
